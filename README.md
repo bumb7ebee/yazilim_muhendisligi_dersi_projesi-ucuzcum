@@ -1,1 +1,1 @@
-# yazilim_projesi_dersi_projesi-ucuzcum-
+Projemiz alışveriş sitelerinde arama yaparak en ucuz ürünü karşımıza getiriyor ve bizi mutlu ediyor.
